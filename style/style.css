@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../884171.jpg");
+  background-size: cover;
+  font-family: "Roboto", sans-serif;
+}
+body .text {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 4rem;
+  transform: translateY(-90%);
+  -webkit-transform: translateY(-90%);
+  -moz-transform: translateY(-90%);
+  -ms-transform: translateY(-90%);
+  -o-transform: translateY(-90%);
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+}
+body .text h1 {
+  font-weight: normal;
+  margin-bottom: 1rem;
+  font-size: 3rem;
+}
+body .text p {
+  font-size: 1.3rem;
+}/*# sourceMappingURL=style.css.map */
